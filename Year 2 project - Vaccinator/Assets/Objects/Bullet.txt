@@ -1,0 +1,24 @@
+Transform
+600 450
+0.3 0.3
+0
+RigidBody
+0 0
+0 0
+0 0
+1
+0 0
+RenderData
+3
+7
+temp
+blue_bullet_spritesheet.png
+0
+0
+0 0
+255 255 255
+Animation
+1
+1
+10
+0 0

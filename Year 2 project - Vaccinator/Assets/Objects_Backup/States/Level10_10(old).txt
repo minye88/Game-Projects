@@ -1,0 +1,1179 @@
+RecImg.txt
+RecImg_1
+2
+1 2
+0 0
+0.8 0.8
+0
+one_map.png
+0
+0
+0
+0 0
+temp
+Fps.txt
+Fps_2
+2
+1 6
+-4772 -3692
+1 1
+0
+60.014652
+70
+1
+RecImg.txt
+RecImg_3
+2
+1 2
+417 693
+1 1
+0
+TutorialMove.png
+0
+0
+0
+0 0
+temp
+RecImg.txt
+RecImg_4
+2
+1 2
+1489 787
+1 1
+0
+TutorialInteraction.png
+0
+0
+0
+0 0
+temp
+ButtonImg.txt
+ButtonImg_5
+3
+1 7 2
+542 -51
+1 1
+0
+5
+pause_box.png
+4
+0
+0
+0 0
+temp
+Player.txt
+Player_10
+3
+1 2 7
+202 673
+1 1
+0
+N_idle_spritesheet.png
+2
+0
+-15.544
+0 2.332
+temp
+140
+Wall.txt
+Wall_112
+2
+1 2
+615 929
+11 1
+0
+Wall.png
+1
+0
+0
+0 0
+temp
+CameraPanCollider.txt
+CameraPanCollider_12
+2
+1 2
+1531 -6
+35 1
+0
+default
+2
+0
+0
+0 0
+temp
+CameraPanCollider.txt
+CameraPanCollider_13
+2
+1 2
+1018 -6
+35 1
+0
+default
+2
+0
+0
+0 0
+temp
+CameraPanCollider.txt
+CameraPanCollider_14
+2
+1 2
+0 252
+35 1
+270
+default
+2
+0
+0
+0 0
+temp
+Lump.txt
+Lump_15
+2
+1 2
+934 699
+0.75 0.75
+0
+lump.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_1
+2
+1 2
+1117 576.9
+1 2
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_2
+2
+1 2
+710 369.3
+1 6
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_3
+2
+1 2
+715 878
+1 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+wall_up
+2
+1 2
+1138 -43.4
+1 2
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_5
+2
+1 2
+1230 216.5
+1 3
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_6
+2
+1 2
+1842 690.8
+1 6
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_7
+2
+1 2
+1648 422
+3 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_8
+2
+1 2
+1362 114.9
+2 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_11
+2
+1 2
+1121 928
+1 2
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_12
+2
+1 2
+1743 236.7
+1 3
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_13
+2
+1 2
+-409 936
+1 2
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_15
+2
+1 2
+421 418
+6 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_16
+2
+1 2
+497 21.3
+9 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_17
+2
+1 2
+1059 421
+6 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_18
+2
+1 2
+919 531
+3 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_19
+2
+1 2
+1496 1033
+7 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_20
+2
+1 2
+1696 14
+2 3
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_21
+2
+1 2
+50 667
+2 7
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_22
+2
+1 2
+53 -2.2
+2 4
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_35
+2
+1 2
+897 -42
+1 2
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_36
+2
+1 2
+672 -498
+11 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_37
+2
+1 2
+1365 12
+2 3
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_38
+2
+1 2
+815 -307
+1 6
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_39
+2
+1 2
+1226 -146
+1 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_40
+2
+1 2
+1226 -692
+1 7
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_41
+2
+1 2
+1842 -363
+1 5
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_42
+2
+1 2
+611 -659
+1 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_43
+2
+1 2
+1532 -601
+6 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_44
+2
+1 2
+1836 -820
+1 4
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_45
+2
+1 2
+1231 -1019
+12 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_46
+2
+1 2
+611 -911
+1 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_47
+2
+1 2
+374 -1016
+5 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_48
+2
+1 2
+767 -562
+2 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_49
+2
+1 2
+355 -598
+5 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_50
+2
+1 2
+49 -394
+2 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_51
+2
+1 2
+-90.9999 -500
+1 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_52
+2
+1 2
+50 -612
+2 2
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_53
+2
+1 2
+50 -916
+2 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_54
+2
+1 2
+-818 -495
+11 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_55
+2
+1 2
+-409 -1010
+8 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_56
+2
+1 2
+-816 -907
+1 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_57
+2
+1 2
+-816 -609
+1 2
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_58
+2
+1 2
+-1125 -144
+1 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_59
+2
+1 2
+-1125 -408
+1 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_60
+2
+1 2
+-713 -291
+1 3
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_61
+2
+1 2
+-1118 -602
+5 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_62
+2
+1 2
+-1274 -1008
+9 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_63
+2
+1 2
+-1738 -811
+1 3
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_64
+2
+1 2
+-1599 -554
+2 2
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_65
+2
+1 2
+-1739 -299
+1 4
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_66
+2
+1 2
+-1430 -92
+6 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_67
+2
+1 2
+-1078 -36
+2 2
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_68
+2
+1 2
+-1498 16
+5 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_69
+2
+1 2
+-1227 114
+1 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_70
+2
+1 2
+-413 -305
+1 4
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_71
+2
+1 2
+-195 -35
+4 2
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_72
+2
+1 2
+-813 -37
+1 2
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_73
+2
+1 2
+-91 421
+1 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_74
+2
+1 2
+-323 424
+1 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_75
+2
+1 2
+-410 333
+1 7
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_76
+2
+1 2
+-711 204
+1 4
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_77
+2
+1 2
+-816 424
+8 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_78
+2
+1 2
+-1224 414
+1 2
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_79
+2
+1 2
+-1267 526
+2 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_80
+2
+1 2
+-1126 566
+1 2
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_81
+2
+1 2
+-208 1040
+3 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_82
+2
+1 2
+-770 1036
+7 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_83
+2
+1 2
+-1124 931
+1 2
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_84
+2
+1 2
+-1495 1033
+7 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_85
+2
+1 2
+-1844 761
+1 5
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_86
+2
+1 2
+-1652 531
+3 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_87
+2
+1 2
+-1738 270
+1 5
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Teleporter.txt
+Teleporter_38
+3
+1 2 7
+1020 189
+1 1
+0
+lump_transfer_hole.png
+0
+1
+-30
+0 0
+temp
+1
+Teleporter.txt
+Teleporter_39
+3
+1 2 7
+1701 764
+1 1
+0
+lump_transfer_hole.png
+0
+1
+-30
+0 0
+temp
+1
+Teleporter.txt
+Teleporter_40
+3
+1 2 7
+574 563
+1 1
+0
+lump_transfer_hole.png
+0
+1
+-30
+0 0
+temp
+2
+Teleporter.txt
+Teleporter_41
+3
+1 2 7
+420 228
+1 1
+0
+lump_transfer_hole.png
+0
+1
+-30
+0 0
+temp
+2
+Obstacle.txt
+Hole_1
+3
+1 2 7
+1122 796
+1 1
+0
+unfilled_hole.png
+1
+1
+-3.109
+-3.109 -20.984
+temp
+unfilled_hole.png
+filled_hole.png
+Lump
+BulletPill.txt
+BulletPill_93
+2
+1 2
+495 769
+0.8 0.8
+0
+blue_bullet_spritesheet.png
+1
+1
+0
+0 0
+temp
+AnimatedObstacle.txt
+Cholestrol_1
+3
+1 2 7
+718 778
+1 1
+0
+range_idle_spritesheet.png
+2
+1
+-3.636
+-3.636 -19.091
+temp
+range_idle_spritesheet.png
+range_death_spritesheet.png
+BulletPill

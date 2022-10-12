@@ -1,0 +1,28 @@
+Transform
+600 450
+1 1
+0
+RigidBody
+0 0
+0 0
+0 0
+1
+0 0
+RenderData
+2
+7
+temp
+passive_idle_spritesheet.png
+0
+0
+0 0
+255 255 255
+Animation
+5
+1
+5
+0 0
+Script
+2
+AIScript
+HealthBarScript

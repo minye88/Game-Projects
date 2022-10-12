@@ -1,0 +1,13 @@
+Transform
+-100 -50
+0.25 0.25
+0
+RenderData
+4
+6
+temp
+HeartFull.png
+0
+0
+0 0
+255 255 255

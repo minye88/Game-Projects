@@ -1,0 +1,53 @@
+RecImg.txt
+RecImg_1
+2
+1 2
+980 500
+1.5 1.5
+0
+ClueBG.png
+4
+0
+0
+0 0
+temp
+Text.txt
+Text_2
+2
+1 6
+836 300
+1 1
+0
+Clue #1
+40
+5
+Text.txt
+Text_3
+2
+1 6
+980 478
+1 1
+0
+How many sides does a
+40
+5
+Text.txt
+Text_4
+2
+1 6
+873 535
+1 1
+0
+circle have?
+40
+5
+Text.txt
+Text_5
+2
+1 6
+1004 751
+1 1
+0
+Press 'E' to continue
+40
+5

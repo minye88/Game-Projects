@@ -1,0 +1,98 @@
+RecImg.txt
+2
+1 2
+960 540
+1 1
+0
+level_bg.png
+0
+0
+0
+0 0
+temp
+RecImg_1
+Fps.txt
+2
+1 6
+1728 108
+1 1
+0
+Fps Text
+70
+1
+Fps_2
+ButtonImg.txt
+3
+1 7 2
+1848 100
+1 1
+0
+5
+pause_box.png
+3
+0
+0
+0 0
+temp
+ButtonImg_3
+Clue.txt
+3
+1 2 7
+423.252 430.222
+1 1
+0
+Clue.png
+1
+0
+0
+0 0
+temp
+2 0
+72 0
+Clue_4
+Door.txt
+3
+1 2 7
+141 568
+1 1
+90
+door_open.png
+0
+0
+0
+0 0
+temp
+door_open.png
+door_closed.png 0 0
+Door_5
+Player.txt
+3
+1 2 7
+233 566
+1 1
+0
+player_idle_spritesheet.png
+2
+0
+0
+0 0
+temp
+0
+Player_6
+Enemy.txt
+3
+1 2 7
+1486 450
+1 1
+0
+passive_idle_spritesheet.png
+2
+0
+0
+0 0
+temp
+71 3
+passive_idle_spritesheet.png
+passive_damage_spritesheet.png
+passive_death_spritesheet.png
+Enemy_7

@@ -1,0 +1,90 @@
+Fps.txt
+Fps_1
+2
+1 6
+1080 31
+1 1
+0
+Fps Text
+70
+3
+Rec.txt
+Rec_2
+2
+1 2
+328 575
+200 400
+0
+no_tex
+3
+0
+0
+0 0
+temp
+Circle.txt
+Circle_3
+2
+1 2
+797 416
+300 300
+0
+no_tex
+0
+0
+0
+0 0
+temp
+ButtonImg.txt
+ButtonImg_4
+3
+1 7 2
+988 737
+1 1
+0
+6
+play_box.png
+0
+0
+0
+0 0
+temp
+ButtonImg.txt
+ButtonImg_5
+3
+1 7 2
+1000 100
+1 1
+0
+5
+pause_box.png
+0
+0
+0
+0 0
+temp
+RecImg.txt
+RecImg_6
+2
+1 2
+500 700
+1 1
+0
+player.png
+0
+0
+0
+0 0
+Blink.frag
+Particle.txt
+Particle_7
+2
+1 2
+393 243
+1 1
+0
+Wall.png
+0
+0
+0
+0 0
+temp

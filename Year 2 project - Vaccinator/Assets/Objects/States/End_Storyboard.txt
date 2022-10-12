@@ -1,0 +1,129 @@
+Fps.txt
+Fps_2
+2
+1 6
+2026 36
+1 1
+0
+60.014652
+50
+3
+Scene.txt
+Scene_1
+2
+1 2
+630 288
+1 1
+0
+End01.png
+3
+0
+0
+0 0
+temp
+Scene_Anim.txt
+Scene_2
+3
+1 2 3
+1325 288
+1 1
+0
+End02_spritesheet.png
+2
+0
+0
+0 0
+temp
+5
+Scene_Anim.txt
+Scene_3
+3
+1 2 3
+689 700
+1 1
+0
+End03_spritesheet.png
+2
+0
+0
+0 0
+temp
+9
+Scene.txt
+Scene_4
+2
+1 2
+1389 700
+1 1
+0
+End04.png
+3
+0
+0
+0 0
+temp
+RecImg.txt
+Continue
+2
+1 2
+1395 950
+1 1
+0
+CS_cont.png
+0
+0
+0
+0 0
+temp
+RecImg.txt
+Skip
+2
+1 2
+567 950
+1 1
+0
+CS_skip.png
+0
+0
+0
+0 0
+temp
+StoryManager.txt
+StoryManager_10
+2
+1 7
+0 0
+1 1
+0
+1
+1 3
+0 0
+LOGO.txt
+BgTransFadeOut
+3
+1 7 2
+913 517
+2 2
+0
+1 6 1 1 0
+BgTrans.png
+6
+0
+0
+0 0
+Shake.frag
+AnimatedTrans.txt
+LvlTransEnd
+4
+1 2 3 7
+954 533
+2.1 2.1
+0
+level_transition_x5_spritesheet.png
+6
+0
+0
+0 0
+temp
+8
+1 3 0 2 1

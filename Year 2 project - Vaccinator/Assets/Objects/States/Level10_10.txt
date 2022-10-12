@@ -1,0 +1,1497 @@
+RecImg.txt
+bg
+2
+1 2
+30 -84
+1 1
+0
+one_updated.png
+0
+0
+0
+0 0
+temp
+Fps.txt
+Fps
+2
+1 6
+1669 108
+1 1
+0
+60.014652
+70
+1
+Player.txt
+Player
+4
+1 2 3 7
+-222.908 453
+1 1
+0
+H_WalkFront_spritesheet.png
+2
+0
+-15.544
+0 2.332
+temp
+6
+140
+InteractableObj.txt
+Hat
+3
+1 2 7
+-227 624
+1 1
+0
+hat.png
+2
+0
+0
+0 0
+temp
+4 1
+Wall.txt
+Wall_6
+2
+1 2
+538 152
+1.1 8
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_7
+2
+1 2
+541 849
+1 3
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_8
+2
+1 2
+48 323
+19 3
+0
+Wall2.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_9
+2
+1 2
+24 553
+1 5
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_10
+2
+1 2
+286 823
+5 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_11
+2
+1 2
+1001 943
+8 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_12
+2
+1 2
+793 583
+1.2 3
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_13
+2
+1 2
+983 667
+5 2
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_14
+2
+1 2
+701 249
+3 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_15
+2
+1 2
+1427 624
+1 6
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_16
+2
+1 2
+1189 376
+4 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_17
+2
+1 2
+1039 131
+1 4
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_18
+2
+1 2
+800 -67
+1 6
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_19
+2
+1 2
+906 -369
+8 6
+0
+Wall2.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_20
+2
+1 2
+1189 -22
+4 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_21
+2
+1 2
+1432 -240
+1 4
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_22
+2
+1 2
+1325 -430
+3 3.5
+0
+Wall2.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_23
+2
+1 2
+1115 -748
+5 4
+0
+Wall2.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_25
+2
+1 2
+943 -788
+3 2.4
+0
+Wall2.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_26
+2
+1 2
+670 -537
+1 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_27
+2
+1 2
+1424 -781
+1 6
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_28
+2
+1 2
+1047 -1027
+7 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_29
+2
+1 2
+669 -876
+1.2 3
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_30
+2
+1 2
+160 32
+1 2
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_31
+2
+1 2
+157 -263
+7 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_32
+2
+1 2
+-484 150
+6.2 2
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_33
+2
+1 2
+-485 476
+1 1.6
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_34
+2
+1 2
+-798 337
+10 3.7
+0
+Wall2.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_35
+2
+1 2
+-481 23
+1 2
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_36
+2
+1 2
+-226 -337
+2.3 10
+0
+Wall2.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_37
+2
+1 2
+-482 -547
+2.2 1.5
+0
+Wall2.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_38
+2
+1 2
+401 -469
+5 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_39
+2
+1 2
+401 -902
+5 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_40
+2
+1 2
+156 -902
+1.2 3.5
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_41
+2
+1 2
+12 -537
+4 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_42
+2
+1 2
+-293 -784
+10 2.3
+0
+Wall2.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_43
+2
+1 2
+-304 -1031
+8 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_44
+2
+1 2
+-805 -876
+5 6
+0
+Wall2.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_45
+2
+1 2
+-802 -463
+5 5
+0
+Wall2.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_46
+2
+1 2
+-1122 -902
+5 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_47
+2
+1 2
+-1120 -462
+4 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_48
+2
+1 2
+-1364 -712
+1 4
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_49
+2
+1 2
+-575 -302
+6 3.5
+0
+Wall2.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_50
+2
+1 2
+-737 -188
+1.2 2
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_51
+2
+1 2
+-1056 -268
+6 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_52
+2
+1 2
+-1364 -32
+1 6
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_53
+2
+1 2
+-991 31
+2 3.7
+0
+Wall2.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_54
+2
+1 2
+-1267 398
+3 6.2
+0
+Wall2.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_55
+2
+1 2
+-1368 685
+1 5
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_56
+2
+1 2
+-1121 731
+2.2 1.5
+0
+Wall2.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_58
+2
+1 2
+-938 932
+8 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_59
+2
+1 2
+-802 729
+4.7 1.6
+0
+Wall2.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_60
+2
+1 2
+-482 792
+1 2
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_61
+2
+1 2
+-241 807
+5 1
+0
+Wall.png
+3
+0
+0
+0 0
+temp
+Wall.txt
+Wall_62
+2
+1 2
+-864 634
+2.2 3
+0
+Wall2.png
+3
+0
+0
+0 0
+temp
+Teleporter.txt
+Teleporter_63
+4
+1 2 3 7
+924 -146
+1.4 1.4
+0
+teleporter.png
+0
+0
+-25
+0 0
+temp
+1
+1
+7 0
+Teleporter.txt
+Teleporter_64
+4
+1 2 3 7
+413 -786
+1.4 1.4
+0
+teleporter.png
+0
+0
+-25
+0 0
+temp
+1
+1
+7 0
+Teleporter.txt
+Teleporter_65
+4
+1 2 3 7
+412 -151
+1.4 1.4
+0
+teleporter.png
+0
+0
+-25
+0 0
+temp
+1
+2
+7 0
+Teleporter.txt
+Teleporter_66
+4
+1 2 3 7
+-1242 -149
+1.4 1.4
+0
+teleporter.png
+0
+0
+-25
+0 0
+temp
+1
+2
+7 0
+CameraPanCollider.txt
+CameraPanCollider_67
+3
+1 2 7
+920 0
+35 1
+0
+1_CS.png
+1
+0
+0
+0 0
+temp
+1 0 1080
+CameraPanCollider.txt
+CameraPanCollider_68
+3
+1 2 7
+105 -656
+35 1
+0
+1_CS.png
+2
+0
+0
+0 0
+temp
+2 1360 0
+Lump.txt
+Lump_68
+3
+1 2 7
+917.701 286.318
+0.85 0.85
+0
+lump.png
+1
+0
+0
+0 0
+temp
+6 0
+Obstacle.txt
+Obstacle_69
+3
+1 2 7
+919 239
+1.2 1.2
+0
+filled_hole.png
+1
+0
+0
+0 0
+temp
+unfilled_hole.png
+filled_hole.png
+Lump
+Lump.txt
+Lump_70
+3
+1 2 7
+247.199 -670.939
+0.85 0.85
+0
+lump.png
+1
+0
+0
+0 0
+temp
+6 0
+Obstacle.txt
+Obstacle_71
+3
+1 2 7
+156 -661
+1.2 1.2
+0
+filled_hole.png
+1
+0
+0
+0 0
+temp
+unfilled_hole.png
+filled_hole.png
+Lump
+BulletPill.txt
+BulletPill_72
+3
+1 2 7
+1217.17 -667.369
+0.4 0.4
+136
+Pill.png
+2
+0
+27.273
+0 0
+temp
+6 0
+AnimatedObstacle.txt
+AnimatedObstacle_73
+4
+1 2 3 7
+798 -787
+1.4 1.4
+0
+range_death_spritesheet.png
+2
+0
+0
+0 0
+temp
+5
+range_idle_spritesheet.png
+range_death_spritesheet.png
+BulletPill
+Lump.txt
+Lump_74
+3
+1 2 7
+-2133.61 -2251.52
+0.85 0.85
+0
+lump.png
+1
+0
+0
+0 0
+temp
+6 0
+Obstacle.txt
+Obstacle_75
+3
+1 2 7
+-736 -655
+1.2 1.2
+0
+filled_hole.png
+1
+0
+0
+0 0
+temp
+unfilled_hole.png
+filled_hole.png
+Lump
+BulletPill.txt
+BulletPill_76
+3
+1 2 7
+-341.353 -380.464
+0.4 0.4
+136
+Pill.png
+2
+0
+27.273
+0 0
+temp
+6 0
+AnimatedObstacle.txt
+AnimatedObstacle_77
+4
+1 2 3 7
+-354 -278
+1.4 1.4
+0
+range_death_spritesheet.png
+2
+0
+0
+0 0
+temp
+5
+range_idle_spritesheet.png
+range_death_spritesheet.png
+BulletPill
+AnimatedObstacle.txt
+AnimatedObstacle_78
+4
+1 2 3 7
+-227 -7
+1.4 1.4
+0
+range_idle_spritesheet.png
+2
+0
+0
+0 0
+temp
+5
+range_idle_spritesheet.png
+range_death_spritesheet.png
+BulletPill
+Lump.txt
+Lump_79
+3
+1 2 7
+-577.594 611.436
+0.85 0.85
+0
+lump.png
+1
+0
+0
+0 0
+temp
+6 0
+BulletPill.txt
+BulletPill_80
+3
+1 2 7
+-341.969 708.271
+0.4 0.4
+136
+Pill.png
+2
+0
+27.273
+0 0
+temp
+6 0
+BulletPill.txt
+BulletPill_81
+3
+1 2 7
+-1250 747
+0.4 0.4
+136
+Pill.png
+2
+0
+27.273
+0 0
+temp
+6 0
+AnimatedObstacle.txt
+AnimatedObstacle_83
+4
+1 2 3 7
+-864 510
+1.4 1.4
+0
+range_death_spritesheet.png
+2
+0
+0
+0 0
+temp
+5
+range_idle_spritesheet.png
+range_death_spritesheet.png
+BulletPill
+Obstacle.txt
+Obstacle_85
+3
+1 2 7
+-483 622
+1.2 1.2
+0
+filled_hole.png
+1
+0
+0
+0 0
+temp
+unfilled_hole.png
+filled_hole.png
+Lump
+BulletPill.txt
+BulletPill_84
+3
+1 2 7
+477.546 623
+0.4 0.4
+136
+Pill.png
+2
+0
+27.273
+0 0
+temp
+6 0
+AnimatedObstacle.txt
+AnimatedObstacle_85
+4
+1 2 3 7
+540 639
+1.4 1.4
+0
+range_death_spritesheet.png
+2
+0
+0
+0 0
+temp
+5
+range_idle_spritesheet.png
+range_death_spritesheet.png
+BulletPill
+CameraPanCollider.txt
+CameraPanCollider_69
+3
+1 2 7
+-355 -270
+35 1
+0
+no_tex
+1
+0
+540
+0 0
+temp
+1 0 610
+CameraPanCollider.txt
+CameraPanCollider_70
+3
+1 2 7
+-1122 341
+35 1
+0
+no_tex
+1
+0
+540
+0 0
+temp
+1 0 540
+Door.txt
+Door_88
+3
+1 2 7
+-224 403
+1 1
+0
+exit.png
+1
+0
+0
+0 0
+temp
+exit.png
+exit.png 2 0
+RecImg.txt
+ZoomGuide
+2
+1 2
+1724 960
+1 1
+0
+zoom.png
+5
+0
+0
+0 0
+temp
+RecImg.txt
+CancelGuide
+2
+1 2
+2997.08 1696
+2 2
+0
+zoom_out.png
+5
+0
+0
+0 0
+temp
+RecImg.txt
+ResetGuide
+2
+1 2
+1583 960
+1 1
+0
+reset.png
+5
+0
+0
+0 0
+temp
+InteractGuide3.txt
+ScrollGuide
+3
+1 2 3
+1397.08 1696
+2 2
+0
+scroll_spritesheet.png
+5
+0
+0
+0 0
+temp
+4
+RecImg.txt
+GuideTxt
+2
+1 2
+1297.08 7.00027
+2 2
+0
+zoom_mode2.png
+5
+0
+0
+0 0
+temp
+LOGO.txt
+BgTransFadeInOut
+3
+1 7 2
+163 517
+5 5
+0
+1 6 0 0 0
+BgTrans.png
+6
+0
+0
+0 0
+Shake.frag
+LOGO.txt
+BgTransFadeOut
+3
+1 7 2
+163 517
+5 5
+0
+1 6 0 1 0
+BgTrans.png
+6
+0
+0
+0 0
+Shake.frag
+AnimatedTrans.txt
+GameTransBegin
+4
+1 2 3 7
+956 533
+2.1 2.1
+0
+black_transition_x5_spritesheet.png
+6
+0
+0
+0 0
+temp
+8
+1 3 0 5 0
+AnimatedTrans.txt
+LvlTrans
+4
+1 2 3 7
+956 533
+2.1 2.1
+0
+level_transition_x5_spritesheet.png
+6
+0
+0
+0 0
+temp
+8
+1 3 1 2 1
+InteractGuide.txt
+InteractGuide_174
+3
+1 2 3
+960 900
+1 1
+0
+e_spritesheet.png
+4
+0
+0
+0 0
+temp
+3
+InteractGuide.txt
+InteractGuide_175
+3
+1 2 3
+960 900
+1 1
+0
+e_spritesheet.png
+4
+0
+0
+0 0
+temp
+3
+InteractGuide.txt
+InteractGuide_176
+3
+1 2 3
+960 900
+1 1
+0
+e_spritesheet.png
+4
+0
+0
+0 0
+temp
+3
+InteractGuide.txt
+InteractGuide_177
+3
+1 2 3
+960 900
+1 1
+0
+e_spritesheet.png
+4
+0
+0
+0 0
+temp
+3
+InteractGuide.txt
+InteractGuide_178
+3
+1 2 3
+960 900
+1 1
+0
+e_spritesheet.png
+4
+0
+0
+0 0
+temp
+3
+InteractGuide2.txt
+InteractGuide2_179
+3
+1 2 3
+960 900
+1 1
+0
+space_spritesheet.png
+2
+0
+0
+0 0
+temp
+5
+InteractGuide2.txt
+InteractGuide2_180
+3
+1 2 3
+960 -179.835
+1 1
+0
+space_spritesheet.png
+2
+0
+0
+0 0
+temp
+5
+InteractGuide2.txt
+InteractGuide2_181
+3
+1 2 3
+960 -179.835
+1 1
+0
+space_spritesheet.png
+2
+0
+0
+0 0
+temp
+5
+InteractGuide2.txt
+InteractGuide2_182
+3
+1 2 3
+-399.792 -179.835
+1 1
+0
+space_spritesheet.png
+2
+0
+0
+0 0
+temp
+5
+InteractGuide2.txt
+InteractGuide2_183
+3
+1 2 3
+-399.792 -179.835
+1 1
+0
+space_spritesheet.png
+2
+0
+0
+0 0
+temp
+5
+InteractGuide2.txt
+InteractGuide2_184
+3
+1 2 3
+-399.792 969.923
+1 1
+0
+space_spritesheet.png
+2
+0
+0
+0 0
+temp
+5
+InteractGuide2.txt
+InteractGuide2_185
+3
+1 2 3
+-399.792 969.973
+1 1
+0
+space_spritesheet.png
+2
+0
+0
+0 0
+temp
+5
+InteractGuide2.txt
+InteractGuide2_186
+3
+1 2 3
+600 450
+1 1
+0
+space_spritesheet.png
+2
+0
+0
+0 0
+temp
+5
+InteractGuide2.txt
+InteractGuide2_187
+3
+1 2 3
+960 900
+1 1
+0
+space_spritesheet.png
+2
+0
+0
+0 0
+temp
+5

@@ -1,0 +1,22 @@
+Transform
+600 450
+1.8 1.8
+0
+Font
+3
+e
+40
+Vividly-Regular.ttf
+0 0 0
+RenderData
+5
+0
+temp
+calc_button.png
+0
+0
+0 0
+255 255 255
+Script
+1
+ImgButtonScript

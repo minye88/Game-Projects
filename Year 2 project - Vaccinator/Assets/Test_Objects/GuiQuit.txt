@@ -1,0 +1,36 @@
+RecImg.txt
+2
+1 2
+600 450
+1 1
+0
+quit_text.png
+0
+temp
+ButtonHover.txt
+1
+2
+quit_button.png
+0
+temp
+Text.txt
+2
+1 6
+600 390
+1 1
+0
+Confirm to Quit?
+ButtonTxt.txt
+2
+1 6
+500 470
+1 1
+0
+Yes
+ButtonTxt.txt
+2
+1 6
+700 470
+1 1
+0
+No

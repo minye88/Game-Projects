@@ -1,0 +1,28 @@
+Transform
+600 450
+1.0 1.0
+0
+RigidBody
+0 0
+0 0
+0 0
+1
+0 0
+RenderData
+0
+7
+temp
+teleporter.png
+0
+0
+0 0
+255 255 255
+Animation
+1
+1
+12
+0 0
+Script
+2
+TeleporterScript
+InteractableScript

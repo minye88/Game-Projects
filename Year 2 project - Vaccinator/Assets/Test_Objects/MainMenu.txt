@@ -1,0 +1,57 @@
+RecImg.txt
+0
+RecImg.txt
+2
+1 2
+800 450
+1 1
+0
+Game_Logo.png
+0
+temp
+ButtonHover.txt
+0
+Text.txt
+0
+ButtonTxt.txt
+2
+1 6
+350 200
+1 1
+0
+Debug
+ButtonTxt.txt
+2
+1 6
+350 290
+1 1
+0
+Start
+ButtonTxt.txt
+2
+1 6
+350 378
+1 1
+0
+Editor
+ButtonTxt.txt
+2
+1 6
+350 480
+1 1
+0
+Options
+ButtonTxt.txt
+2
+1 6
+350 560
+1 1
+0
+Credits
+ButtonTxt.txt
+2
+1 6
+350 654
+1 1
+0
+Quit

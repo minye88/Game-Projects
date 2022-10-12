@@ -1,0 +1,13 @@
+Transform
+600 450
+1.0 1.0
+0
+RenderData
+0
+0
+temp
+menu_bg.png
+0
+0
+0 0
+255 255 255

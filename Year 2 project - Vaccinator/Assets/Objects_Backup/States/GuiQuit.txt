@@ -1,0 +1,71 @@
+RecImg.txt
+BG_Img
+2
+1 2
+960 540
+1 1
+0
+quit_bg.png
+5
+0
+0
+0 0
+temp
+RecImg.txt
+Quit_Title
+2
+1 2
+960 465
+1.3 1.3
+0
+quit_title.png
+6
+0
+0
+0 0
+temp
+ButtonSelect.txt
+Yes_Btn
+3
+1 7 2
+785 660
+0.8 0.8
+0
+7
+Q_yes.png
+Q_yes_sel.png
+Q_yes_sel.png
+6
+0
+0
+0 0
+temp
+ButtonSelect.txt
+No_Btn
+3
+1 7 2
+1175 660
+0.8 0.8
+0
+11
+Q_no.png
+Q_no_sel.png
+Q_no.png
+6
+0
+0
+0 0
+temp
+RecImg.txt
+Black_BG
+2
+1 2
+960 540
+1 1
+0
+black.png
+4
+0
+0
+0 0
+temp

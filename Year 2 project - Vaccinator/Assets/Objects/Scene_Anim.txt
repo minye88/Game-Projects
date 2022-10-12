@@ -1,0 +1,18 @@
+Transform
+600 450
+1 1
+0
+RenderData
+2
+7
+temp
+space_spritesheet.png
+0
+0
+0 0
+255 255 255
+Animation
+5
+1
+5
+0 0

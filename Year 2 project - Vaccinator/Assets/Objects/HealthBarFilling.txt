@@ -1,0 +1,19 @@
+Transform
+600 200
+1.0 1.0
+0
+RenderData
+3
+7
+temp
+healthfilling.png
+0
+0
+0 0
+255 255 255
+RigidBody
+0 0
+0 0
+0 0
+1
+0 0

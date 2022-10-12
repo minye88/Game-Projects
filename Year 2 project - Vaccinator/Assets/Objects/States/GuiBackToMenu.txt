@@ -1,0 +1,71 @@
+RecImg.txt
+RecImg_1
+2
+1 2
+960 540
+1 1
+0
+quit_bg.png
+5
+0
+0
+0 0
+temp
+RecImg.txt
+RecImg_2
+2
+1 2
+960 415
+0.6 0.6
+0
+b2m_title.png
+6
+0
+0
+0 0
+temp
+ButtonSelect.txt
+ButtonSelect_3
+3
+1 7 2
+761 622
+1 1
+0
+1
+Q_yes.png
+Q_yes_sel.png
+Q_yes_sel.png
+6
+0
+0
+0 0
+temp
+ButtonSelect.txt
+ButtonSelect_4
+3
+1 7 2
+1158 622
+1 1
+0
+12
+Q_no.png
+Q_no_sel.png
+Q_no.png
+6
+0
+0
+0 0
+temp
+RecImg.txt
+RecImg_5
+2
+1 2
+960 540
+1 1
+0
+black.png
+4
+0
+0
+0 0
+temp

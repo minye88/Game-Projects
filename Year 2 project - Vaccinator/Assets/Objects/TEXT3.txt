@@ -1,0 +1,10 @@
+Transform
+600 450
+1 1
+0
+Font
+3
+Sample Text
+50
+wonder.ttf
+128 44 46

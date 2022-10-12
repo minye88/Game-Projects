@@ -1,0 +1,22 @@
+Transform
+600 450
+1.0 1.0
+0
+RenderData
+3 
+6
+temp
+right_door_open.png
+0
+0
+0 0
+255 255 255
+RigidBody
+0 0
+0 0
+0 0
+1
+0 0
+Script
+1
+DoorScript

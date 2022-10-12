@@ -1,0 +1,129 @@
+RecImg.txt
+Team_Logo
+2
+1 2
+1728 960
+1 1
+0
+menu_logo.png
+1
+0
+0
+0 0
+temp
+Fps.txt
+Fps_4
+2
+1 6
+1728 108
+1 1
+0
+Fps Text
+50
+3
+RecImg.txt
+Game_Logo
+2
+1 2
+960 250
+1.5 1.4
+0
+menu_title.png
+1
+0
+0
+0 0
+temp
+ButtonSelect.txt
+Start_Btn
+3
+1 7 2
+960 450
+0.85 0.85
+0
+6
+M_start.png
+M_start_sel.png
+M_start.png
+3
+0
+0
+0 0
+temp
+ButtonSelect.txt
+Htp_Btn
+3
+1 7 2
+960 545
+0.85 0.85
+0
+10
+M_h2p.png
+M_h2p_sel.png
+M_h2p.png
+3
+0
+0
+0 0
+temp
+ButtonSelect.txt
+Option_Btn
+3
+1 7 2
+960 640
+0.85 0.85
+0
+9
+M_options.png
+M_options_sel.png
+M_options.png
+3
+0
+0
+0 0
+temp
+ButtonSelect.txt
+Credits_Btn
+3
+1 7 2
+960 735
+0.85 0.85
+0
+2
+M_credits.png
+M_credits_sel.png
+M_credits.png
+3
+0
+0
+0 0
+temp
+ButtonSelect.txt
+Quit_Btn
+3
+1 7 2
+960 830
+0.22 0.22
+0
+8
+M_quit.png
+M_quit_sel.png
+M_quit.png
+3
+0
+0
+0 0
+temp
+RecImg.txt
+BG_Img
+2
+1 2
+960 540
+1 1
+0
+menu_bg.png
+0
+0
+0
+0 0
+temp

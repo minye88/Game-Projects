@@ -1,0 +1,24 @@
+Logo.txt
+Logo_1
+3
+1 7 2
+960 540
+0.5 0.5
+0
+0 2 1 0 0
+DPlogo.png
+3
+0
+0
+0 0
+Shake.frag
+Fps.txt
+Fps_2
+2
+1 6
+1728 108
+1 1
+0
+Fps Text
+70
+3

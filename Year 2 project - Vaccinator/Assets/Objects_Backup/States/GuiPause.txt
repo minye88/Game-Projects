@@ -1,0 +1,119 @@
+RecImg.txt
+Black_BG
+2
+1 2
+960 540
+1 1
+0
+black.png
+6
+0
+0
+0 0
+temp
+RecImg.txt
+BG_Img
+2
+1 2
+960 540
+1.2 1.2
+0
+pause_bg.png
+6
+0
+0
+0 0
+temp
+RecImg.txt
+Pause_Title
+2
+1 2
+960 305
+1.5 1.5
+0
+pause_title.png
+6
+0
+0
+0 0
+temp
+ButtonSelect.txt
+Resume_Btn
+3
+1 7 2
+960 440
+1 1
+0
+5
+P_resume.png
+P_resume_sel.png
+P_resume.png
+6
+0
+0
+0 0
+temp
+ButtonSelect.txt
+Option_Btn
+3
+1 7 2
+960 525
+1 1
+0
+9
+P_options.png
+P_options_sel.png
+P_options.png
+6
+0
+0
+0 0
+temp
+ButtonSelect.txt
+Menu_Btn
+3
+1 7 2
+960 700
+1 1
+0
+13
+P_b2m.png
+P_b2m_sel.png
+P_b2m.png
+6
+0
+0
+0 0
+temp
+ButtonSelect.txt
+Exit_Btn
+3
+1 7 2
+960 785
+1 1
+0
+8
+P_exit.png
+P_exit_sel.png
+P_exit_sel.png
+6
+0
+0
+0 0
+temp
+ButtonSelect.txt
+Htp_Btn
+3
+1 7 2
+960 610
+0.7 0.7
+0
+10
+M_h2p.png
+M_h2p_sel.png
+M_h2p.png
+6
+0
+0
+0 0
+temp

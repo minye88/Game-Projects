@@ -1,0 +1,10 @@
+Transform
+600 450
+1 1
+0
+Font
+3
+Sample Text
+50
+Vividly-Regular.ttf
+0 0 0

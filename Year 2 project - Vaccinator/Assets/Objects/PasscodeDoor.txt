@@ -1,0 +1,23 @@
+Transform
+0 0
+1 1
+0
+RigidBody
+0 0
+0 0
+0 0
+1
+0 0 
+RenderData
+3
+6
+temp
+bottom_door_closed.png
+0
+0
+0 0
+255 255 255
+Script
+2
+InteractableScript
+DoorScript

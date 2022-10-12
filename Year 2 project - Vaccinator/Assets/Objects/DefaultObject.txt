@@ -1,0 +1,19 @@
+Transform
+600 450
+1 1
+0
+RigidBody
+0 0
+0 0
+0 0
+1
+0 0
+RenderData
+3
+6
+temp
+box.png
+0
+0
+0 0
+255 255 255

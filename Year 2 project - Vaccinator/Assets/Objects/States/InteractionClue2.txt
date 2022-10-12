@@ -1,0 +1,53 @@
+RecImg.txt
+RecImg_1
+2
+1 2
+980 510
+1.5 1.5
+0
+ClueBG.png
+4
+0
+0
+0 0
+temp
+Text.txt
+Text_2
+2
+1 6
+835 358
+1 1
+0
+Clue #2
+40
+5
+Text.txt
+Text_3
+2
+1 6
+978 477
+1 1
+0
+What number becomes smaller
+40
+5
+Text.txt
+Text_4
+2
+1 6
+977 530
+1 1
+0
+when you turn it upside down?
+40
+5
+TEXT.txt
+TEXT_5
+2
+1 6
+1007 760
+1 1
+0
+Press 'E' to continue
+40
+5

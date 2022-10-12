@@ -1,0 +1,161 @@
+RecImg.txt
+RecImg_2
+2
+1 2
+1728 972
+1 1
+0
+menu_logo.png
+1
+0
+0
+0 0
+temp
+Fps.txt
+Fps_4
+2
+1 6
+1728 108
+1 1
+0
+Fps Text
+50
+3
+RecImg.txt
+RecImg_12
+2
+1 2
+960 162
+1 1
+0
+menu_title.png
+1
+0
+0
+0 0
+temp
+ButtonSelect.txt
+ButtonSelect_5
+3
+1 7 2
+960 348
+1 1
+0
+6
+M_start.png
+M_start_sel.png
+M_start.png
+3
+0
+0
+0 0
+temp
+ButtonSelect.txt
+ButtonSelect_6
+3
+1 7 2
+960 563
+1 1
+0
+10
+M_h2p.png
+M_h2p_sel.png
+M_h2p.png
+3
+0
+0
+0 0
+temp
+ButtonSelect.txt
+ButtonSelect_7
+3
+1 7 2
+960 670
+1 1
+0
+9
+M_options.png
+M_options_sel.png
+M_options.png
+3
+0
+0
+0 0
+temp
+ButtonSelect.txt
+ButtonSelect_8
+3
+1 7 2
+960 781
+1 1
+0
+2
+M_credits.png
+M_credits_sel.png
+M_credits.png
+3
+0
+0
+0 0
+temp
+ButtonSelect.txt
+ButtonSelect_9
+3
+1 7 2
+960 913
+0.3 0.3
+0
+8
+M_quit.png
+M_quit_sel.png
+M_quit.png
+3
+0
+0
+0 0
+temp
+ButtonSelect.txt
+ButtonSelect_10
+3
+1 7 2
+960 454
+1 1
+0
+4
+M_editor.png
+M_editor_sel.png
+M_editor.png
+3
+0
+0
+0 0
+temp
+RecImg.txt
+RecImg_11
+2
+1 2
+960 540
+1 1
+0
+menu_bg.png
+0
+0
+0
+0 0
+temp
+ButtonSelect.txt
+ButtonSelect_5
+3
+1 7 2
+1551 450
+1 1
+0
+14
+enemy.png
+enemy.png
+enemy.png
+3
+0
+0
+0 0
+temp

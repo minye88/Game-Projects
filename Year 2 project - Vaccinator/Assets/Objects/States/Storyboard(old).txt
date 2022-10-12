@@ -1,0 +1,101 @@
+Fps.txt
+Fps_1
+2
+1 6
+1549 46
+1 1
+0
+Fps Text
+70
+1
+Scene.txt
+Scene_2
+2
+1 2
+611 312
+1 1
+0
+1_CS.png
+0
+0
+0
+0 0
+temp
+Scene.txt
+Scene_3
+2
+1 2
+1302 311
+1 1
+0
+2_CS.png
+0
+0
+0
+0 0
+temp
+Scene.txt
+Scene_4
+2
+1 2
+671 735
+1 1
+0
+3_CS.png
+0
+0
+0
+0 0
+temp
+StoryManager.txt
+StoryManager_7
+2
+1 7
+0 0
+1 1
+0
+0
+2 3 3
+8
+1_CS.png 2_CS.png 3_CS.png 4_CS.png 5_CS.png 6_CS.png 7_CS.png 8_CS.png
+8
+1_CS.png 2_CS.png 3_CS.png 4_CS.png 5_CS.png 6_CS.png 7_CS.png 8_CS.png
+Scene.txt
+Scene_8
+2
+1 2
+1363 736
+1 1
+0
+4_CS.png
+3
+0
+0
+0 0
+temp
+RecImg.txt
+Skip_Text
+2
+1 2
+545 985
+1 1
+0
+CS_skip.png
+0
+0
+0
+0 0
+temp
+RecImg.txt
+Continue_Text
+2
+1 2
+1368 985
+1 1
+0
+CS_cont.png
+0
+0
+0
+0 0
+temp

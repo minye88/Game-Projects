@@ -1,0 +1,58 @@
+RecImg.txt
+BG_Img
+2
+1 2
+960 540
+1 1
+0
+quit_bg.png
+0
+0
+0
+0 0
+temp
+RecImg.txt
+Menu_Title
+2
+1 2
+960 451
+0.3 0.3
+0
+b2m_title.png
+0
+0
+0
+0 0
+temp
+ButtonSelect.txt
+Yes_Btn
+3
+1 7 2
+785 660
+0.8 0.8
+0
+0
+M_start.png
+M_start_sel.png
+Q_yes_sel.png
+3
+0
+0
+0 0
+temp
+ButtonSelect.txt
+No_Btn
+3
+1 7 2
+1175 660
+0.8 0.8
+0
+0
+M_start.png
+M_start_sel.png
+Q_no.png
+3
+0
+0
+0 0
+temp

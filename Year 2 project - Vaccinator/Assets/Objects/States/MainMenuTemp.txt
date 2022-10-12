@@ -1,0 +1,129 @@
+RecImg.txt
+RecImg_1
+2
+1 2
+960 540
+1 1
+0
+menu_bg.png
+0
+0
+0
+0 0
+temp
+RecImg.txt
+RecImg_2
+2
+1 2
+1728 972
+1 1
+0
+menu_logo.png
+1
+0
+0
+0 0
+temp
+Fps.txt
+Fps_4
+2
+1 6
+1728 108
+1 1
+0
+Fps Text
+50
+3
+RecImg.txt
+RecImg_12
+2
+1 2
+960 162
+1 1
+0
+menu_title.png
+1
+0
+0
+0 0
+temp
+ButtonSelect.txt
+ButtonSelect_5
+3
+1 2 7
+960 392
+1 1
+0
+M_start.png
+3
+0
+0
+0 0
+temp
+6
+M_start.png
+M_start_sel.png
+ButtonSelect.txt
+ButtonSelect_6
+3
+1 2 7
+960 514
+1 1
+0
+M_h2p.png
+3
+0
+0
+0 0
+temp
+10
+M_h2p.png
+M_h2p_sel.png
+ButtonSelect.txt
+ButtonSelect_7
+3
+1 2 7
+960 640
+1 1
+0
+M_options.png
+3
+0
+0
+0 0
+temp
+9
+M_options.png
+M_options_sel.png
+ButtonSelect.txt
+ButtonSelect_8
+3
+1 2 7
+960 766
+1 1
+0
+M_credits.png
+3
+0
+0
+0 0
+temp
+2
+M_credits.png
+M_credits_sel.png
+ButtonSelect.txt
+ButtonSelect_9
+3
+1 2 7
+960 893
+1 1
+0
+M_quit.png
+3
+0
+0
+0 0
+temp
+8
+M_quit.png
+M_quit_sel.png

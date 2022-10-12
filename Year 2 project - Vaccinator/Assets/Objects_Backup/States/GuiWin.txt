@@ -1,0 +1,97 @@
+RecImg.txt
+BG_Img
+2
+1 2
+960 540
+1 1
+0
+win_bg.png
+6
+0
+0
+0 0
+temp
+RecImg.txt
+Win_Title
+2
+1 2
+960 349
+0.23 0.23
+0
+Win_title@300x.png
+6
+0
+0
+0 0
+temp
+ButtonSelect.txt
+Yes_Btn
+3
+1 7 2
+815 765
+0.75 0.75
+0
+1
+W_yes.png
+W_yes_sel.png
+Q_yes.png
+6
+0
+0
+0 0
+temp
+ButtonSelect.txt
+No_Btn
+3
+1 7 2
+1115 765
+0.75 0.75
+0
+7
+W_no.png
+W_no_sel.png
+Q_no.png
+6
+0
+0
+0 0
+temp
+RecImg.txt
+Family_Img
+2
+1 2
+960 525
+0.2 0.2
+0
+Win_family@300x.png
+6
+0
+0
+0 0
+temp
+RecImg.txt
+Menu_Title
+2
+1 2
+960 675
+0.23 0.23
+0
+Win_subtitle@300x.png
+6
+0
+0
+0 0
+temp
+RecImg.txt
+Black_BG
+2
+1 2
+960 540
+1 1
+0
+black.png
+5
+0
+0
+0 0
+temp

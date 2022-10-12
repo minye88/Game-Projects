@@ -1,0 +1,47 @@
+Text.txt
+0
+Rec.txt
+0
+Circle.txt
+0
+ButtonImg.txt
+3
+1 2 7
+1000 737
+1 1
+0
+play_box.png
+0
+temp
+6
+ButtonImg.txt
+3
+1 2 7
+1000 100
+1 1
+0
+pause_box.png
+0
+temp
+5
+Enemy.txt
+0
+Enemy.txt
+1
+1
+17.7399 157
+1 1
+0
+Player.txt
+0
+RecImg.txt
+2
+1 2
+500 700
+1 1
+0
+player.png
+12
+Blink.frag
+Bullet.txt
+0

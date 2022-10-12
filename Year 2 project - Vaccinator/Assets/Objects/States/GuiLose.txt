@@ -1,0 +1,91 @@
+RecImg.txt
+RecImg_1
+2
+1 2
+960 540
+1 1
+0
+lose_bg.png
+5
+0
+0
+0 0
+temp
+RecImg.txt
+RecImg_2
+2
+1 2
+960 490
+0.75 0.75
+0
+lose_image.png
+5
+0
+0
+0 0
+temp
+ButtonHover.txt
+ButtonHover_3
+2
+1 2
+865 559
+1.2 1
+0
+quit_button.png
+6
+0
+0
+0 0
+temp
+ButtonTxt.txt
+ButtonTxt_4
+3
+1 6 7
+864 740
+1 1
+0
+Yes
+70
+6
+6 36
+quit_button.png
+quit_button_clicked.png
+ButtonTxt.txt
+ButtonTxt_5
+3
+1 6 7
+1056 740
+1 1
+0
+No
+70
+6
+1 36
+quit_button.png
+quit_button_clicked.png
+RecImg.txt
+RecImg_6
+2
+1 2
+960 340
+0.75 0.75
+0
+lose_title.png
+6
+0
+0
+0 0
+temp
+RecImg.txt
+RecImg_7
+2
+1 2
+960 640
+0.5 0.5
+0
+lose_subtext.png
+6
+0
+0
+0 0
+temp

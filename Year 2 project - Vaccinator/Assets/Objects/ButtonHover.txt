@@ -1,0 +1,13 @@
+Transform
+600 450
+1.2 1.0
+0
+RenderData
+1
+0
+temp
+menu_button.png
+0
+0
+0 0
+255 255 255

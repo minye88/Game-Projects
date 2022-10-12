@@ -1,0 +1,66 @@
+RecImg.txt
+2
+1 2
+960 540
+1 1
+0
+level_bg.png
+0
+0
+0
+0 0
+temp
+RecImg_1
+Fps.txt
+2
+1 6
+1728 108
+1 1
+0
+60.014652
+70
+1
+Fps_2
+ButtonImg.txt
+3
+1 7 2
+1843 100
+1 1
+0
+5
+pause_box.png
+3
+0
+0
+0 0
+temp
+ButtonImg_3
+Player.txt
+3
+1 2 7
+967.835 888.865
+1 1
+0
+player_idle_spritesheet.png
+2
+0
+0
+0 0
+temp
+0
+Player_4
+Door.txt
+3
+1 2 7
+961 974
+1 1
+0
+bottom_door_open.png
+1
+0
+0
+0 0
+temp
+0
+0 0 0
+Door_5

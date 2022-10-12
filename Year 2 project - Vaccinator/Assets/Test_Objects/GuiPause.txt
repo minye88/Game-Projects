@@ -1,0 +1,52 @@
+RecImg.txt
+2
+1 2
+600 450
+1 1
+0
+win_lose_bg.png
+0
+temp
+RecImg.txt
+2
+1 2
+600 400
+1 1
+0
+lose_image.png
+0
+temp
+ButtonHover.txt
+1
+2
+quit_button.png
+0
+temp
+Text.txt
+2
+1 6
+600 200
+1 1
+0
+You were infected by the virus!
+Text.txt
+2
+1 6
+600 600
+1 1
+0
+Try again?
+ButtonTxt.txt
+2
+1 6
+500 700
+1 1
+0
+Yes
+ButtonTxt.txt
+2
+1 6
+700 700
+1 1
+0
+No

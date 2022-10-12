@@ -1,0 +1,23 @@
+Transform
+0 0
+0.75 0.75
+0
+RigidBody
+0 0
+0 0
+0 0
+1
+0 0
+RenderData
+1
+6
+temp
+Pill.png
+1
+0
+0 0
+255 255 255
+Script
+2
+InteractableScript
+LumpScript

@@ -1,0 +1,21 @@
+Transform
+0 0
+1 1
+0
+RenderData
+2
+7
+temp
+transition_spritesheet.png
+0
+0
+0 0
+255 255 255
+Animation
+4
+1
+4
+0 0
+Script
+1
+TransitionScript

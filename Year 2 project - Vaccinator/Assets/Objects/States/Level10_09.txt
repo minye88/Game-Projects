@@ -1,0 +1,96 @@
+RecImg.txt
+2
+1 2
+960 540
+1 1
+0
+level_bg.png
+0
+0
+0
+0 0
+temp
+RecImg_1
+Fps.txt
+2
+1 6
+1728 108
+1 1
+0
+60.014652
+70
+1
+Fps_2
+ButtonImg.txt
+3
+1 7 2
+1847 100
+1 1
+0
+5
+pause_box.png
+3
+0
+0
+0 0
+temp
+ButtonImg_3
+Wall.txt
+2
+1 2
+596 79
+10 1
+0
+Wall.png
+1
+0
+0
+0 0
+temp
+Wall_4
+Door.txt
+3
+1 2 7
+976 107
+1 1
+180
+door_open.png
+1
+0
+0
+0 0
+temp
+door_open.png
+door_closed.png 2 1
+Door_5
+Player.txt
+3
+1 2 7
+974.307 205.871
+1 1
+0
+player_idle_spritesheet.png
+2
+0
+0
+0 0
+temp
+0
+Player_6
+Boss.txt
+3
+1 2 7
+977 761
+1 1
+0
+boss1_idle_spritesheet.png
+2
+0
+0
+0 0
+temp
+64 10
+boss1_idle_spritesheet.png
+boss1_damage_spritesheet.png
+boss1_idle_spritesheet.png
+Boss_7

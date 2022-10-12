@@ -1,0 +1,207 @@
+RecImg.txt
+RecImg_1
+2
+1 2
+930 394
+1 1
+0
+calc_bg.png
+4
+0
+0
+0 0
+temp
+CalculatorButton.txt
+CalculatorButton_2
+4
+1 6 2 7
+720 150
+1 1
+0
+1
+60
+5
+calc_button.png
+4
+0
+0
+0 0
+temp
+4 63
+CalculatorButton.txt
+CalculatorButton_3
+4
+1 6 2 7
+720 260
+1 1
+0
+4
+60
+5
+calc_button.png
+4
+0
+0
+0 0
+temp
+4 63
+CalculatorButton.txt
+CalculatorButton_4
+4
+1 6 2 7
+720 370
+1 1
+0
+7
+60
+5
+calc_button.png
+6
+0
+0
+0 0
+temp
+4 63
+CalculatorButton.txt
+CalculatorButton_5
+4
+1 6 2 7
+880 150
+1 1
+0
+2
+60
+5
+calc_button.png
+4
+0
+0
+0 0
+temp
+4 63
+CalculatorButton.txt
+CalculatorButton_6
+4
+1 6 2 7
+880 260
+1 1
+0
+5
+60
+5
+calc_button.png
+4
+0
+0
+0 0
+temp
+4 63
+CalculatorButton.txt
+CalculatorButton_7
+4
+1 6 2 7
+880 370
+1 1
+0
+8
+60
+5
+calc_button.png
+4
+0
+0
+0 0
+temp
+4 63
+CalculatorButton.txt
+CalculatorButton_8
+4
+1 6 2 7
+880 480
+1 1
+0
+0
+60
+5
+calc_button.png
+4
+0
+0
+0 0
+temp
+4 63
+CalculatorButton.txt
+CalculatorButton_9
+4
+1 6 2 7
+1040 150
+1 1
+0
+3
+60
+5
+calc_button.png
+4
+0
+0
+0 0
+temp
+4 63
+CalculatorButton.txt
+CalculatorButton_10
+4
+1 6 2 7
+1040 260
+1 1
+0
+6
+60
+5
+calc_button.png
+4
+0
+0
+0 0
+temp
+4 63
+CalculatorButton.txt
+CalculatorButton_11
+4
+1 6 2 7
+1040 370
+1 1
+0
+9
+60
+5
+calc_button.png
+4
+0
+0
+0 0
+temp
+4 63
+CalculatorButton.txt
+CalculatorButton_12
+4
+1 6 2 7
+1040 478
+1 1
+0
+Close
+40
+5
+calc_button.png
+4
+0
+0
+0 0
+temp
+4 63
+Passcode.txt
+Passcode_13
+1
+1
+930 155
+1 1
+0

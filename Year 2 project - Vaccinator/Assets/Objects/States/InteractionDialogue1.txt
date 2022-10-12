@@ -1,0 +1,47 @@
+RecImg.txt
+Dialogue_BG
+2
+1 2
+930 753
+0.65 0.65
+0
+dialogue_start.png
+4
+0
+0
+0 0
+temp
+TEXT.txt
+Text1
+2
+1 6
+1002 725
+1 1
+0
+Where am I? My bag and hat are gone! I need to
+50
+5
+TEXT.txt
+Text2
+2
+1 6
+842 770
+1 1
+0
+find them and get back home!
+50
+5
+InteractGuide.txt
+Continue
+3
+1 2 3
+1367 833
+0.9 0.9
+0
+continue_spritesheet.png
+4
+0
+0
+0 0
+temp
+3

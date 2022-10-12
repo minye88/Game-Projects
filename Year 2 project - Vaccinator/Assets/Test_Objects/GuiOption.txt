@@ -1,0 +1,47 @@
+RecImg.txt
+2
+1 2
+600 450
+1 1
+0
+options_text.png
+0
+temp
+ButtonImg.txt
+2
+1 2
+820 250
+1 1
+0
+close.png
+0
+temp
+RecImg.txt
+2
+1 2
+600 420
+1 1
+0
+slider.png
+0
+temp
+ButtonImg.txt
+3
+1 2 7
+600 420
+1 1
+0
+slider_handle.png
+0
+temp
+3 3
+ButtonImg.txt
+3
+1 2 7
+400 590
+1 1
+0
+options_not_fullscreen.png
+0
+temp
+2

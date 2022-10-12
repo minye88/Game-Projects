@@ -1,0 +1,13 @@
+Transform
+600 450
+1 1
+0
+Font
+2
+Sample Text
+50
+wonder.ttf
+76 20 20
+Script
+1
+TxtHoverScript

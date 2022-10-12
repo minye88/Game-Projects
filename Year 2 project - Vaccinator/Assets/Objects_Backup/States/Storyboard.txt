@@ -1,0 +1,155 @@
+Fps.txt
+Fps_2
+2
+1 6
+2026 36
+1 1
+0
+60.014652
+50
+3
+Scene.txt
+Scene_1
+2
+1 2
+631 280
+1 1
+0
+1_CS.png
+3
+0
+0
+0 0
+temp
+Scene_Anim.txt
+Scene_2
+3
+1 2 3
+1323 280
+1 1
+0
+Start02_spritesheet.png
+2
+0
+0
+0 0
+temp
+5
+InteractGuide.txt
+Scene_3
+3
+1 2 3
+692 700
+1 1
+0
+Start03_spritesheet.png
+4
+0
+0
+0 0
+temp
+4
+Scene_Anim.txt
+Scene_4
+3
+1 2 3
+1385 700
+1 1
+0
+Start04_spritesheet.png
+2
+0
+0
+0 0
+temp
+5
+RecImg.txt
+Scene_5
+2
+1 2
+587 280
+1 1
+0
+5_CS.png
+0
+0
+0
+0 0
+temp
+Scene_Anim.txt
+Scene_6
+3
+1 2 3
+1277 280
+1 1
+0
+Start06_spritesheet.png
+2
+0
+0
+0 0
+temp
+4
+Scene.txt
+Scene_7
+2
+1 2
+522 700
+1 1
+0
+7_CS.png
+3
+0
+0
+0 0
+temp
+Scene_Anim.txt
+Scene_8
+3
+1 2 3
+1218 700
+1 1
+0
+Start08_spritesheet.png
+2
+0
+0
+0 0
+temp
+5
+RecImg.txt
+Continute
+2
+1 2
+1395 950
+1 1
+0
+CS_cont.png
+0
+0
+0
+0 0
+temp
+RecImg.txt
+Skip
+2
+1 2
+567 950
+1 1
+0
+CS_skip.png
+0
+0
+0
+0 0
+temp
+StoryManager.txt
+StoryManagerAnim
+2
+1 7
+0 0
+1 1
+0
+1
+2 3 3
+0 0

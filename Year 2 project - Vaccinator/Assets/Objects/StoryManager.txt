@@ -1,0 +1,7 @@
+Transform
+0 0
+1.0 1.0
+0
+Script
+1
+StoryManager

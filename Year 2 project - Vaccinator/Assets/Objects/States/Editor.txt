@@ -1,0 +1,14 @@
+RecImg.txt
+2
+1 2
+600 450
+1 1
+0
+level_bg.png
+0
+0
+0
+0 0
+temp
+Fps.txt
+0

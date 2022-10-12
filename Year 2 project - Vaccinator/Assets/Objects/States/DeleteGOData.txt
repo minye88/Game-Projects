@@ -1,0 +1,17 @@
+Obstacle.txt
+Obstacle_75
+3
+1 2 7
+-736 -655
+1.2 1.2
+0
+unfilled_hole.png
+1
+0
+0
+0 0
+temp
+unfilled_hole.png
+filled_hole.png
+Lump
+1

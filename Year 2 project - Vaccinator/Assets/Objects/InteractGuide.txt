@@ -1,0 +1,18 @@
+Transform
+600 450
+1 1
+0
+RenderData
+4
+7
+temp
+e_spritesheet.png
+0
+0
+0 0
+255 255 255
+Animation
+3
+1
+3
+0 0

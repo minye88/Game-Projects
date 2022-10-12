@@ -1,0 +1,73 @@
+RecImg.txt
+RecImg_1
+2
+1 2
+600 450
+1.5 1.5
+0
+ClueBG.png
+4
+0
+0
+0 0
+temp
+Text.txt
+Text_2
+2
+1 6
+440 250
+1 1
+0
+Clue #3
+40
+5
+Text.txt
+Text_3
+2
+1 6
+600 350
+1 1
+0
+A boy blows 18 bubbles.
+40
+5
+Text.txt
+Text_4
+2
+1 6
+600 400
+1 1
+0
+Then pops 6, eats 7.
+40
+5
+Text.txt
+Text_5
+2
+1 6
+600 450
+1 1
+0
+And then he pops 5 and blows 1.
+40
+5
+Text.txt
+Text_6
+2
+1 6
+600 500
+1 1
+0
+How many are left?
+40
+5
+Text.txt
+Text_7
+2
+1 6
+600 687
+1 1
+0
+Press 'E' to continue
+40
+5

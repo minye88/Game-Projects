@@ -1,0 +1,59 @@
+1
+BGM_Boss Battle.wav
+1
+Boss_Introduction.mp3
+1
+Door_Code Click.wav
+1
+Door_Code Wrong.mp3
+0.8
+Game_Lose.wav
+1.5
+Next_Portal.wav
+0.6
+OCTOBER - EasyListeningDow MSCLES1_09.wav
+0.3
+WATER-DRIP_GEN-HDF-25464.wav
+0.4
+Door_Open.ogg
+1
+Door_Shut.wav
+0.2
+ICE-CRACK_GEN-HDF-15575.wav
+0.9
+Enemy_Taking Damage.wav
+0.5
+SCI-FI-WHOOSH_GEN-HDF-20872.wav
+0.3
+CHATEAU SUITE - EasyListeningUpT MSCLJZ1_34.wav
+0.5
+THE RABBI STORYTELLER - Holidays MSCHOL2_46.wav
+0.6
+PAINT-ROLLER_GEN-HDF-18158.wav
+0.1
+HUMAN-VOCAL_GEN-HDF-15466.wav
+1
+BAG-KNAPSACK_GEN-HDF-02745.wav
+1
+Player_Take_Damage.mp3
+0.4
+HUMAN-HEARTBEAT_GEN-HDF-15116.wav
+0.2
+BELL-DESK_GEN-HDF-03263.wav
+0.02
+HORROR_GEN-HDF-14541.wav
+0.4
+GOLDEN FIELDS - EasyListeningDow MSCLES2_13.wav
+0.1
+HUMAN-VOCAL_GEN-HDF-15466.wav
+0.3
+BALLOON-RUBBER_GEN-HDF-02991.wav
+0.2
+WOOD-WATER_GEN-HDF-26147.wav
+0.2
+BELL-DESK_GEN-HDF-03263.wav
+0.6
+GOLF_GEN-HDF-13035.wav
+0.3
+CAN-GARBAGE(bullet_push).wav
+0.5
