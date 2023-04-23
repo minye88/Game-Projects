@@ -2,7 +2,7 @@
 
 ## Snake
 Recreation of the all-time classic Snake game.
-![](/Screenshots/snake1.PNG | width = 500)
+![](/Screenshots/snake1.PNG | width=500)
 ![](/Screenshots/snake2.PNG)
 
 ## Rainbow Fighter: Space Invaders with a colorful twist! 
