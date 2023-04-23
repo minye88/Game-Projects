@@ -2,6 +2,7 @@
 
 ## Snake
 Recreation of the all-time classic Snake game.
+
 ![](/Screenshots/snake1.PNG)
 ![](/Screenshots/snake2.PNG)
 ![](/Screenshots/snake3.PNG)
@@ -9,6 +10,7 @@ Recreation of the all-time classic Snake game.
 
 ## Rainbow Fighter
 Space Invaders with a colorful twist! 
+
 ![](/Screenshots/rainbowfighter1.PNG)
 ![](/Screenshots/rainbowfighter2.PNG)
 ![](/Screenshots/rainbowfighter3.PNG)
@@ -16,6 +18,7 @@ Space Invaders with a colorful twist!
 
 ## Throwdown
 A 2D puzzle game centered around throwing a ball.
+
 ![](/Screenshots/throwdown1.PNG)
 ![](/Screenshots/throwdown2.PNG)
 ![](/Screenshots/throwdown3.PNG)
@@ -23,6 +26,7 @@ A 2D puzzle game centered around throwing a ball.
 
 ## Vaccinator
 A 2D narrative puzzle game that tells the story of a red blood cell's quest to fix the human body.
+
 ![](/Screenshots/vaccinator1.PNG)
 ![](/Screenshots/vaccinator2.PNG)
 ![](/Screenshots/vaccinator3.PNG)
@@ -32,7 +36,9 @@ A 2D narrative puzzle game that tells the story of a red blood cell's quest to f
 
 ## Heart of the Trident
 A 3D rogue-lite dungeon crawler. Follow Triton, son of Poseidon, on his quest to prove his worthiness of inheriting the almighty conch.
+
 [Link to installer](https://drive.google.com/file/d/117NUFuCDk1laaTeMvF7h4PWiw-NqHqKL/view?usp=share_link)
+
 ![](/Screenshots/hott1.PNG)
 ![](/Screenshots/hott2.PNG)
 ![](/Screenshots/hott3.PNG)
@@ -53,6 +59,7 @@ An arcade sports-like game where players can play Basketball and Bowling anywher
 - Swing your arm and release the Grab Button to throw the ball
 - Press the Trigger Button when the pointer is pointed at a spawner to spawn a basketball, bowling ball or bowling pins.
 - Point the Meta Quest 2 controller at the floor and hold the Trigger for 2 seconds. You will then teleport to that location.
+- 
 ![basketball gif](/Screenshots/basketball.gif)
 ![basketball gif](/Screenshots/bowling.gif)
  
