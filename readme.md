@@ -39,10 +39,20 @@ A 3D rogue-lite dungeon crawler. Follow Triton, son of Poseidon, on his quest to
 ![](/Screenshots/hott4.PNG)
 
 ## Basketbowl VR
-An arcade sports-like game where players can play Basketball and Bowling anywhere and anytime, using a VR headset.
-  - Enter the following link into your VR headset browser: https://minye88.github.io/IPA/
-  - Enable sound by clicking the voluume button at the top-left corner of the screen.
-  - Enter VR mode by clicking the VR button at the bottom-right corner of the screen.
+An arcade sports-like game where players can play Basketball and Bowling anywhere and anytime, using a VR headset. Please note that Basketbowl VR is best experienced using a Meta Quest 2.
+
+### To run the game
+- Enter the following link into your VR headset browser: https://minye88.github.io/IPA/
+- Enable sound by clicking the voluume button at the top-left corner of the screen.
+- Enter VR mode by clicking the VR button at the bottom-right corner of the screen.
+
+### Instructions:
+- To look around, simply turn your head around while wearing the Meta Quest 2 headset.
+- To grab an object, move close to the object and reach out to the object with the Meta Quest 2 controller, then hold the grab button to grab the object.
+- To let go of the object, release the grab button.
+- Swing your arm and release the Grab Button to throw the ball
+- Press the Trigger Button when the pointer is pointed at a spawner to spawn a basketball, bowling ball or bowling pins.
+- Point the Meta Quest 2 controller at the floor and hold the Trigger for 2 seconds. You will then teleport to that location.
 ![basketball gif](/Screenshots/basketball.gif)
 ![basketball gif](/Screenshots/bowling.gif)
  
