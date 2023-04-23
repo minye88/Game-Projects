@@ -6,6 +6,7 @@ Downloadable games:
 3) Snake: Recreation of the all-time classic Snake game.
 4) Vaccinator: A 2D narrative puzzle game that tells the story of a red blood cell's quest to fix the human body.
 5) Heart of the Trident: A 3D rogue-lite dungeon crawler. Follow Triton, son of Poseidon, on his quest to prove his worthiness of inheriting the almighty conch.
+   - Link to installer: https://drive.google.com/file/d/117NUFuCDk1laaTeMvF7h4PWiw-NqHqKL/view?usp=share_link
 
 Online games:
 1) Basketbowl VR: An arcade sports-like game where players can play Basketball and Bowling anywhere and anytime, using a VR headset.
