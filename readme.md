@@ -1,7 +1,8 @@
 # A collection of game projects I have worked on during my time as a student at DigiPen!
 
-## Snake: Recreation of the all-time classic Snake game.
-![](/Screenshots/snake1.PNG)
+## Snake
+Recreation of the all-time classic Snake game.
+![](/Screenshots/snake1.PNG) ![](/Screenshots/snake2.PNG) 
 
 ## Rainbow Fighter: Space Invaders with a colorful twist! 
 
