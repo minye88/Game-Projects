@@ -59,7 +59,7 @@ An arcade sports-like game where players can play Basketball and Bowling anywher
 - Swing your arm and release the Grab Button to throw the ball
 - Press the Trigger Button when the pointer is pointed at a spawner to spawn a basketball, bowling ball or bowling pins.
 - Point the Meta Quest 2 controller at the floor and hold the Trigger for 2 seconds. You will then teleport to that location.
-- 
+
 ![basketball gif](/Screenshots/basketball.gif)
 ![basketball gif](/Screenshots/bowling.gif)
  
